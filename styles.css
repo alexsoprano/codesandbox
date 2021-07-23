@@ -1,20 +1,21 @@
 .proyecto {
-text-align: center;
+  text-align: center;
 }
 .titulo {
-font-size: 50px;
-text-align: center;
-font-weight: 600;
+  font-size: 50px;
+  text-align: center;
+  font-weight: 600;
 }
 .table {
-text-align: center;
-font-weight: 300;
+  text-align: center;
+  font-weight: 300;
 }
 .col_1 {
-text-align: right;
-width: 50%;
+  color: aqua;
+  text-align: right;
+  width: 50%;
 }
 .col_2 {
-font-weight: 600;
-text-align: left;
+  font-weight: 600;
+  text-align: left;
 }
